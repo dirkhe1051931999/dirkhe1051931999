@@ -17,7 +17,7 @@
 <table >
 <tr>
      <td align='center' width="190">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
+        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
     </td>
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
@@ -32,7 +32,7 @@
 </tr>
 <tr>
      <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" width="60">
+        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg">
     </td>
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg">
